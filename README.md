@@ -35,7 +35,7 @@ The study schedule follows a rhythm of theoretical absorption on weekends and in
 
 Upon completing this foundation, upcoming phases (documented in future repositories) will include the implementation of Vector Databases (pgvector), advanced Retrieval-Augmented Generation (RAG) orchestration, and Parameter-Efficient Fine-Tuning (PEFT/LoRA) of open-weight models for deployment on proprietary servers.
 
-*Maintained by \[Me/NetoRibeiro\] - Connect with me on [Link to your LinkedIn](https://www.linkedin.com/in/netoribeiro/).*
+*Maintained by Me - Connect with me on [LinkedIn](https://www.linkedin.com/in/netoribeiro/).*
 
 [pt-BR]
 # Enterprise AI Architect - Foundations 🧠🚀
@@ -76,4 +76,4 @@ O cronograma de estudos segue uma proporção de absorção teórica aos finais 
 Ao finalizar esta fundação, as próximas fases (documentadas em repositórios futuros) incluirão a implementação de Bancos de Dados Vetoriais (pgvector), orquestração avançada de Retrieval-Augmented Generation (RAG) e Parameter-Efficient Fine-Tuning (PEFT/LoRA) de modelos open-weight para implantação em servidores proprietários.
 
 ---
-*Mantido por \[Me/NetoRibeiro\] - Conecte-se comigo no [Link to your LinkedIn](https://www.linkedin.com/in/netoribeiro/).*
+*Mantido por Min - Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/netoribeiro/).*
