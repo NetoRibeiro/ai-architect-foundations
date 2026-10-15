@@ -1,0 +1,36 @@
+ai-architect-foundations/
+│
+├── README.md
+├── ROADMAP.md
+│
+├── 01-Phase-1-Math-and-ML-Core/
+│   ├── 01-sklearn-pipelines/
+│   │   ├── notebooks/          # Para os arquivos .ipynb do Colab
+│   │   └── docs/               # Para suas anotações teóricas em Markdown/TXT
+│   ├── 02-linear-algebra-numpy/
+│   │   ├── notebooks/
+│   │   └── docs/
+│   ├── 03-calculus-gradient/
+│   │   ├── notebooks/
+│   │   └── docs/
+│   └── 04-pytorch-tensors/
+│       ├── notebooks/
+│       └── docs/
+│
+├── 02-Phase-2-Deep-Learning/
+│   ├── 01-pytorch-architecture/
+│   ├── 02-transformers-theory/
+│   └── 03-huggingface-local/
+│
+├── 03-Phase-3-Advanced-RAG/
+│   ├── 01-vector-databases/
+│   ├── 02-semantic-chunking/
+│   └── 03-evaluation-metrics/
+│
+├── 04-Phase-4-Fine-Tuning/
+│   ├── 01-dataset-prep/
+│   └── 02-lora-qlora/
+│
+└── 05-Phase-5-MLOps/
+    ├── 01-model-serving/
+    └── 02-pipeline-orchestration/
