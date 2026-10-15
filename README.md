@@ -15,19 +15,19 @@ The main focus here is to build a solid foundation in applied mathematics (Linea
 
 The study schedule follows a rhythm of theoretical absorption on weekends and intensive practical application on weekdays (14 hours per week).
 
-### [📁 /01-sklearn-pipelines](./01-sklearn-pipelines)
+### [📁 /01-Phase-1-Math-and-ML-Core](./01-Phase-1-Math-and-ML-Core)
 * **Focus:** Data orchestration and rigorous evaluation.
 * **Projects:** End-to-end `Pipeline` construction, dataset ingestion and normalization, and extraction of critical evaluation metrics (Confusion Matrix, F1-Score, Precision, and Recall).
 
-### [📁 /02-linear-algebra-numpy](./02-linear-algebra-numpy)
+### [📁 /02-Phase-2-Deep-Learning](./02-Phase-2-Deep-Learning)
 * **Focus:** The geometry of LLMs.
 * **Projects:** Simulation of semantic search engines using pure vector operations. Implementation of the Dot Product and cosine similarity calculation with NumPy.
 
-### [📁 /03-calculus-gradient](./03-calculus-gradient)
+### [📁 /03-Phase-3-Advanced-RAG](./03-Phase-3-Advanced-RAG)
 * **Focus:** The engine of continuous learning.
 * **Projects:** Deconstruction of Gradient Descent and the Chain Rule. Training a mathematical model by adjusting weights manually, without "black-box" functions.
 
-### [📁 /04-pytorch-tensors](./04-pytorch-tensors)
+### [📁 /04-Phase-4-Fine-Tuning](./04-Phase-4-Fine-Tuning)
 * **Focus:** The structural bridge to Deep Learning.
 * **Projects:** Complete refactoring of data pipelines to use PyTorch Tensors, activating automatic differentiation engines (Autograd) and GPU acceleration.
 
@@ -54,19 +54,19 @@ O foco principal aqui é construir uma fundação sólida em matemática aplicad
 
 O cronograma de estudos segue uma proporção de absorção teórica aos finais de semana e aplicação prática intensiva nos dias úteis (14 horas semanais).
 
-### [📁 /01-sklearn-pipelines](./01-sklearn-pipelines)
+### [📁 /01-Phase-1-Math-and-ML-Core](./01-Phase-1-Math-and-ML-Core)
 * **Foco:** Orquestração de dados e avaliação rigorosa.
 * **Projetos:** Construção de `Pipelines` ponta-a-ponta, ingestão e normalização de datasets, e extração de métricas de avaliação crítica (Matriz de Confusão, F1-Score, Precisão e Recall).
 
-### [📁 /02-linear-algebra-numpy](./02-linear-algebra-numpy)
+### [📁 /02-Phase-2-Deep-Learning](./02-Phase-2-Deep-Learning)
 * **Foco:** A geometria dos LLMs.
 * **Projetos:** Simulação de motores de busca semântica utilizando apenas operações vetoriais puras. Implementação do Produto Escalar (Dot Product) e cálculo de similaridade de cosseno com NumPy.
 
-### [📁 /03-calculus-gradient](./03-calculus-gradient)
+### [📁 /03-Phase-3-Advanced-RAG](./03-Phase-3-Advanced-RAG)
 * **Foco:** O motor do aprendizado contínuo.
 * **Projetos:** Desconstrução da Descida do Gradiente (Gradient Descent) e Regra da Cadeia (Chain Rule). Treinamento de um modelo matemático ajustando os pesos manualmente, sem funções "caixa-preta".
 
-### [📁 /04-pytorch-tensors](./04-pytorch-tensors)
+### [📁 /04-Phase-4-Fine-Tuning](./04-Phase-4-Fine-Tuning)
 * **Foco:** A ponte estrutural para Deep Learning.
 * **Projetos:** Refatoração completa dos pipelines de dados para utilização de Tensores (Tensors) no PyTorch, ativando os motores de diferenciação automática (Autograd) e aceleração por GPU.
 
